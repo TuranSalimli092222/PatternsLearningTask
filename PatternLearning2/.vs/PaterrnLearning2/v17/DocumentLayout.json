@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|c:\\users\\turan salimli\\desktop\\abstactfactory\\paterrnlearning2\\paterrnlearning2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|solutionrelative:paterrnlearning2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|c:\\users\\turan salimli\\desktop\\abstactfactory\\paterrnlearning2\\paterrnlearning2\\abstactfactory\\airlogisticsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|solutionrelative:paterrnlearning2\\abstactfactory\\airlogisticsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|c:\\users\\turan salimli\\desktop\\abstactfactory\\paterrnlearning2\\paterrnlearning2\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|solutionrelative:paterrnlearning2\\models\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|c:\\users\\turan salimli\\desktop\\abstactfactory\\paterrnlearning2\\paterrnlearning2\\abstactfactory\\sealogisticsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|solutionrelative:paterrnlearning2\\abstactfactory\\sealogisticsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|c:\\users\\turan salimli\\desktop\\abstactfactory\\paterrnlearning2\\paterrnlearning2\\abstactfactory\\roadlogisticsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|solutionrelative:paterrnlearning2\\abstactfactory\\roadlogisticsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|c:\\users\\turan salimli\\desktop\\abstactfactory\\paterrnlearning2\\paterrnlearning2\\interfaces\\ilogisticsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|solutionrelative:paterrnlearning2\\interfaces\\ilogisticsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|c:\\users\\turan salimli\\desktop\\abstactfactory\\paterrnlearning2\\paterrnlearning2\\interfaces\\itransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|solutionrelative:paterrnlearning2\\interfaces\\itransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|c:\\users\\turan salimli\\desktop\\abstactfactory\\paterrnlearning2\\paterrnlearning2\\interfaces\\ipackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|solutionrelative:paterrnlearning2\\interfaces\\ipackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|c:\\users\\turan salimli\\desktop\\abstactfactory\\paterrnlearning2\\paterrnlearning2\\models\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|solutionrelative:paterrnlearning2\\models\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|c:\\users\\turan salimli\\desktop\\abstactfactory\\paterrnlearning2\\paterrnlearning2\\models\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|solutionrelative:paterrnlearning2\\models\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|c:\\users\\turan salimli\\desktop\\abstactfactory\\paterrnlearning2\\paterrnlearning2\\models\\crate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|solutionrelative:paterrnlearning2\\models\\crate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|c:\\users\\turan salimli\\desktop\\abstactfactory\\paterrnlearning2\\paterrnlearning2\\models\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|solutionrelative:paterrnlearning2\\models\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|c:\\users\\turan salimli\\desktop\\abstactfactory\\paterrnlearning2\\paterrnlearning2\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D7D79D-5CAA-41DC-B27F-E823567AB161}|PaterrnLearning2\\PaterrnLearning2.csproj|solutionrelative:paterrnlearning2\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Program.cs",
+              "RelativeDocumentMoniker": "PaterrnLearning2\\Program.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Program.cs",
+              "RelativeToolTip": "PaterrnLearning2\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:44:59.723Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AirLogisticsFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\AbstactFactory\\AirLogisticsFactory.cs",
+              "RelativeDocumentMoniker": "PaterrnLearning2\\AbstactFactory\\AirLogisticsFactory.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\AbstactFactory\\AirLogisticsFactory.cs",
+              "RelativeToolTip": "PaterrnLearning2\\AbstactFactory\\AirLogisticsFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:34:14.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeaLogisticsFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\AbstactFactory\\SeaLogisticsFactory.cs",
+              "RelativeDocumentMoniker": "PaterrnLearning2\\AbstactFactory\\SeaLogisticsFactory.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\AbstactFactory\\SeaLogisticsFactory.cs",
+              "RelativeToolTip": "PaterrnLearning2\\AbstactFactory\\SeaLogisticsFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:33:34.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoadLogisticsFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\AbstactFactory\\RoadLogisticsFactory.cs",
+              "RelativeDocumentMoniker": "PaterrnLearning2\\AbstactFactory\\RoadLogisticsFactory.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\AbstactFactory\\RoadLogisticsFactory.cs",
+              "RelativeToolTip": "PaterrnLearning2\\AbstactFactory\\RoadLogisticsFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:32:21.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILogisticsFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Interfaces\\ILogisticsFactory.cs",
+              "RelativeDocumentMoniker": "PaterrnLearning2\\Interfaces\\ILogisticsFactory.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Interfaces\\ILogisticsFactory.cs",
+              "RelativeToolTip": "PaterrnLearning2\\Interfaces\\ILogisticsFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:15:47.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Crate.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Models\\Crate.cs",
+              "RelativeDocumentMoniker": "PaterrnLearning2\\Models\\Crate.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Models\\Crate.cs",
+              "RelativeToolTip": "PaterrnLearning2\\Models\\Crate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:12:30.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Models\\Container.cs",
+              "RelativeDocumentMoniker": "PaterrnLearning2\\Models\\Container.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Models\\Container.cs",
+              "RelativeToolTip": "PaterrnLearning2\\Models\\Container.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:11:19.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Models\\Box.cs",
+              "RelativeDocumentMoniker": "PaterrnLearning2\\Models\\Box.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Models\\Box.cs",
+              "RelativeToolTip": "PaterrnLearning2\\Models\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:06:38.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Models\\Airplane.cs",
+              "RelativeDocumentMoniker": "PaterrnLearning2\\Models\\Airplane.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Models\\Airplane.cs",
+              "RelativeToolTip": "PaterrnLearning2\\Models\\Airplane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:06:17.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Models\\Ship.cs",
+              "RelativeDocumentMoniker": "PaterrnLearning2\\Models\\Ship.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Models\\Ship.cs",
+              "RelativeToolTip": "PaterrnLearning2\\Models\\Ship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:06:05.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Models\\Truck.cs",
+              "RelativeDocumentMoniker": "PaterrnLearning2\\Models\\Truck.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Models\\Truck.cs",
+              "RelativeToolTip": "PaterrnLearning2\\Models\\Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:05:55.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPackage.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Interfaces\\IPackage.cs",
+              "RelativeDocumentMoniker": "PaterrnLearning2\\Interfaces\\IPackage.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Interfaces\\IPackage.cs",
+              "RelativeToolTip": "PaterrnLearning2\\Interfaces\\IPackage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:03:41.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITransport.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Interfaces\\ITransport.cs",
+              "RelativeDocumentMoniker": "PaterrnLearning2\\Interfaces\\ITransport.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\Interfaces\\ITransport.cs",
+              "RelativeToolTip": "PaterrnLearning2\\Interfaces\\ITransport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:00:26.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

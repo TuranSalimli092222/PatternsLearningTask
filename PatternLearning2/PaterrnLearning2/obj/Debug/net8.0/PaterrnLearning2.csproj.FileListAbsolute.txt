@@ -1,0 +1,14 @@
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PaterrnLearning2\PaterrnLearning2\bin\Debug\net8.0\PaterrnLearning2.exe
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PaterrnLearning2\PaterrnLearning2\bin\Debug\net8.0\PaterrnLearning2.deps.json
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PaterrnLearning2\PaterrnLearning2\bin\Debug\net8.0\PaterrnLearning2.runtimeconfig.json
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PaterrnLearning2\PaterrnLearning2\bin\Debug\net8.0\PaterrnLearning2.dll
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PaterrnLearning2\PaterrnLearning2\bin\Debug\net8.0\PaterrnLearning2.pdb
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PaterrnLearning2\PaterrnLearning2\obj\Debug\net8.0\PaterrnLearning2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PaterrnLearning2\PaterrnLearning2\obj\Debug\net8.0\PaterrnLearning2.AssemblyInfoInputs.cache
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PaterrnLearning2\PaterrnLearning2\obj\Debug\net8.0\PaterrnLearning2.AssemblyInfo.cs
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PaterrnLearning2\PaterrnLearning2\obj\Debug\net8.0\PaterrnLearning2.csproj.CoreCompileInputs.cache
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PaterrnLearning2\PaterrnLearning2\obj\Debug\net8.0\PaterrnLearning2.dll
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PaterrnLearning2\PaterrnLearning2\obj\Debug\net8.0\refint\PaterrnLearning2.dll
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PaterrnLearning2\PaterrnLearning2\obj\Debug\net8.0\PaterrnLearning2.pdb
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PaterrnLearning2\PaterrnLearning2\obj\Debug\net8.0\PaterrnLearning2.genruntimeconfig.cache
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PaterrnLearning2\PaterrnLearning2\obj\Debug\net8.0\ref\PaterrnLearning2.dll
