@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\PaterrnLearning2.csproj",
+      "projectUniqueName": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PatternLearning2\\PaterrnLearning2\\PaterrnLearning2.csproj",
       "projectName": "PaterrnLearning2",
-      "projectPath": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\PaterrnLearning2.csproj",
+      "projectPath": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PatternLearning2\\PaterrnLearning2\\PaterrnLearning2.csproj",
       "packagesPath": "C:\\Users\\Turan Salimli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PaterrnLearning2\\PaterrnLearning2\\obj\\",
+      "outputPath": "C:\\Users\\Turan Salimli\\Desktop\\AbstactFactory\\PatternLearning2\\PaterrnLearning2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Turan Salimli\\AppData\\Roaming\\NuGet\\NuGet.Config",

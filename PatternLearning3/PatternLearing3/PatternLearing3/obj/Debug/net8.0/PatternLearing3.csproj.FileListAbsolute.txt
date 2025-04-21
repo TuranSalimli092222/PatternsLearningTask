@@ -1,0 +1,15 @@
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PatternLearning3\PatternLearing3\PatternLearing3\bin\Debug\net8.0\PatternLearing3.exe
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PatternLearning3\PatternLearing3\PatternLearing3\bin\Debug\net8.0\PatternLearing3.deps.json
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PatternLearning3\PatternLearing3\PatternLearing3\bin\Debug\net8.0\PatternLearing3.runtimeconfig.json
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PatternLearning3\PatternLearing3\PatternLearing3\bin\Debug\net8.0\PatternLearing3.dll
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PatternLearning3\PatternLearing3\PatternLearing3\bin\Debug\net8.0\PatternLearing3.pdb
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PatternLearning3\PatternLearing3\PatternLearing3\obj\Debug\net8.0\PatternLearing3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PatternLearning3\PatternLearing3\PatternLearing3\obj\Debug\net8.0\PatternLearing3.AssemblyInfoInputs.cache
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PatternLearning3\PatternLearing3\PatternLearing3\obj\Debug\net8.0\PatternLearing3.AssemblyInfo.cs
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PatternLearning3\PatternLearing3\PatternLearing3\obj\Debug\net8.0\PatternLearing3.csproj.CoreCompileInputs.cache
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PatternLearning3\PatternLearing3\PatternLearing3\obj\Debug\net8.0\PatternLearing3.sourcelink.json
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PatternLearning3\PatternLearing3\PatternLearing3\obj\Debug\net8.0\PatternLearing3.dll
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PatternLearning3\PatternLearing3\PatternLearing3\obj\Debug\net8.0\refint\PatternLearing3.dll
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PatternLearning3\PatternLearing3\PatternLearing3\obj\Debug\net8.0\PatternLearing3.pdb
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PatternLearning3\PatternLearing3\PatternLearing3\obj\Debug\net8.0\PatternLearing3.genruntimeconfig.cache
+C:\Users\Turan Salimli\Desktop\AbstactFactory\PatternLearning3\PatternLearing3\PatternLearing3\obj\Debug\net8.0\ref\PatternLearing3.dll

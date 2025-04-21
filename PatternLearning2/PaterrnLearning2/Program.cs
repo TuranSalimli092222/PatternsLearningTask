@@ -1,8 +1,5 @@
 ﻿using PaterrnLearning2.AbstactFactory;
 using PaterrnLearning2.Interfaces;
-using System;
-using System.ComponentModel.Design;
-using System.Reflection.Metadata.Ecma335;
 namespace TransportFactoryExample;
 class Program
 {
@@ -23,7 +20,7 @@ class Program
                     break;  
                 }
 
-                ILogisticsFactory factory = input.ToLower() switch
+                ILogisticsFactory factory = input?.ToLower() switch
                 {
                     "road" => new RoadLogisticsFactory(),
                     "sea" => new SeaLogisticsFactory(),

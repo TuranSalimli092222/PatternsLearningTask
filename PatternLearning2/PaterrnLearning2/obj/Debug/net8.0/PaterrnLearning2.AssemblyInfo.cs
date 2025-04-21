@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaterrnLearning2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00b631ec96c1ecbd28917dfe5a0234a3a7882410")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaterrnLearning2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaterrnLearning2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
